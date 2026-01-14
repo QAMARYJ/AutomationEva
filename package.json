@@ -1,0 +1,23 @@
+{
+  "name": "automationeva",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QAMARYJ/AutomationEva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/QAMARYJ/AutomationEva/issues"
+  },
+  "homepage": "https://github.com/QAMARYJ/AutomationEva#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.8"
+  }
+}
